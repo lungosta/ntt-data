@@ -1,10 +1,10 @@
 {
     "apps": [{
             "name": "JAVAWEB",
-            "cwd": "/home/ec2-user/ntt-data-cc-repository",
+            "cwd": "/home/ec2-user/ntt-data",
             "args": [
                 "-jar",
-                "/home/ec2-user/ntt-data-cc-repository/target/myapp-1.0.jar"
+                "/home/ec2-user/ntt-data/target/myapp-1.0.jar"
 
             ],
             "script": "/usr/bin/java",
