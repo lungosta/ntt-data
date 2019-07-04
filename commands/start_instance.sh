@@ -1,2 +1,2 @@
 #!/bin/bash
-pm2 start /home/ec2-user/ntt-data-cc-repository/commands/config.json
+pm2 start /home/ec2-user/ntt-data/commands/config.json
